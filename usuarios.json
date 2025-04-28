@@ -1,0 +1,14 @@
+[
+    {
+        "nome": "Claudine",
+        "idade": 46,
+        "email": "claudinedacunhacosta@gmail.com",
+        "consentimento": "sim"
+    },
+    {
+        "nome": "Claudine",
+        "idade": 46,
+        "email": "claudinedacunhacosta@gmail.com",
+        "consentimento": "n\u00e3o"
+    }
+]
